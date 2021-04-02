@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmadan1210
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning .
+- 👀 I’m open for offers
+- 🌱 I’m currently persuing B.Tech in CSE from VIT Vellore
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohitvmadan9@gmail.com
 
