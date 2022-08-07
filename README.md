@@ -1,9 +1,9 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-## Hi I am Mohit Madan . I'm a Final Year CSE Student from  VIT Vellore
+## Hi I am Mohit Madan . I'm a Final Year CSE Student from VIT Vellore
 
-<img align="right" alt="GIF" height="200px" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76112e2cc514138f6239696d951037a624d261332f4b&rid=giphy.gif&ct=g" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"/>
 
 ## Views and Followers
 
@@ -13,10 +13,9 @@
 </a>
 <a href="https://github.com/mmadan1210?tab=followers"><img src="https://img.shields.io/github/followers/mmadan1210?label=Followers&style=social" alt="GitHub Badge"></a>
 
-- 🌱 I’m currently trying to learn lots of things in the domain of computer science
+- 🌱 I’m currently ppen to learn and explore in the domain of computer sciences.
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to open source developement and enhance my skills in CP and DSA
-- ⚡ Fun fact: I love playing cricket and listening music
+- ⚡ Fun fact: I love playing Badminton and Problem Solving
 ---
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmadan1210&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Mohit Madan" /></a></p>
 
