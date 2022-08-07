@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/mohit-madan-1210/" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Shaurya | LinkedIn" width="40px" >
   </a>
-    <a href="hhttps://github.com/mmadan1210" target="_blank">
+    <a href="https://github.com/mmadan1210" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Shaurya| Github" width="40px" >
   </a>
   <a href="mailto:mohitvmadan9@gmail.com" target="_blank">
