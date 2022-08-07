@@ -3,7 +3,7 @@
 
 ## Hi I am Mohit Madan . I'm a Final Year CSE Student from VIT Vellore
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"/>
+<img align="right" alt="GIF" height="200px" src="https://giphy.com/gifs/support-technical-Qc0BxWM9TxljvJug2x"/>
 
 ## Views and Followers
 
